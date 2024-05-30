@@ -3,7 +3,7 @@
 This demostration provides the Authorization Code implimentation of Oauth 2.0 from scratch in golang.
 This includes the client (represented as a print service), and the authorization / resource server (represented as a photo gallery service).
 
-[Video Tutorial]()
+[Video Tutorial](https://www.youtube.com/watch?v=iXDynkSgpZo)
 
 [Specification](https://datatracker.ietf.org/doc/html/rfc6749)
 
